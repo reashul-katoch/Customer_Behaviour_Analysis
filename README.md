@@ -122,4 +122,3 @@ The dashboard allows users to interactively explore the data and gain business i
 
 ---
 
-## Project Structure
